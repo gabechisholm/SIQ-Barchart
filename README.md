@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="assets/siq-benchmark-bar-chart-v2.png" alt="SIQ Benchmark Bar Chart icon" width="96">
+<img src="assets/siq_barchart_banner.png" alt="SIQ Benchmark Bar Chart icon">
+
 
 # SIQ Benchmark Bar Chart
 
