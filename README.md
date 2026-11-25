@@ -7,7 +7,7 @@
 
 **A custom Power BI chart that brings actual performance and benchmarks together.**
 
-![Version 1.1.0.0](https://img.shields.io/badge/version-1.1.0.0-2563EB)
+![Version 1.1.1.0](https://img.shields.io/badge/version-1.1.1.0-2563EB)
 ![Power BI custom visual](https://img.shields.io/badge/Power%20BI-custom%20visual-F2C811?logo=powerbi&logoColor=black)
 ![MIT licence](https://img.shields.io/badge/licence-MIT-64748B)
 
@@ -27,8 +27,8 @@ Compare sales against targets, costs against budgets, or results against a previ
 | Apply your own business rules | **DAX colour measures** for actual bars and data-label text |
 
 > [!NOTE]
-> **New in 1.1.0.0** — Style presets, conditional colours, per-series data-label formatting, label backgrounds, and consistent SIQ font and number controls. See the [Changelog](CHANGELOG.md) for release details.
-
+> **New in 1.1.1.0** — Fixed the logic for decimal places in tooltips and added support for Markdown formatting within tooltips. See the [Changelog](CHANGELOG.md) for full release details.
+> 
 ---
 
 ## 📦 Installation
